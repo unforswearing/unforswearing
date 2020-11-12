@@ -1,5 +1,7 @@
-> Hi, I'm [Alvin](https://www.unforswearing.com). I'm currently looking to step into a data-oriented programming role.   
-> Take a look around and get in touch if I seem like a good fit. Thanks!  
+> Hi, I'm [Alvin](https://www.unforswearing.com). I am actively seeking entry level data analyst / engineer or software developer roles in the Washington DC area or remote.
+> Take a look around and get in touch if I seem like a good fit. 
+> 
+> Thanks!  
 >    
 > alvin@unforswearing.com  
 >    
