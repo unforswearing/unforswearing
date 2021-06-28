@@ -1,11 +1,10 @@
-> Hi, I'm [Alvin](https://www.unforswearing.com). I am actively seeking data analyst or software developer roles in the Washington DC area or remote.
-> Take a look around and get in touch if I seem like a good fit. 
-> 
-> Thanks!  
->    
-> alvin@unforswearing.com  
->    
->    
+> Hi, I'm [Alvin](https://www.unforswearing.com). I am open to part time or full time work, remote or local to the Baltimore-Washington DC corridor. Let me know how I can help you.
+>
+> Thanks!
+>
+> alvin@unforswearing.com
+>
+>
 
 
 <!--
