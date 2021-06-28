@@ -4,9 +4,10 @@
 >
 > Thanks,
 > alvin@unforswearing.com
->
-> [unforswearing.com](https://www.unforswearing.com)
-> [linkedIn](https://www.linkedin.com/in/alvin-charity/)
+
+
+- [unforswearing.com](https://www.unforswearing.com)
+- [linkedIn](https://www.linkedin.com/in/alvin-charity/)
 
 
 <!--
