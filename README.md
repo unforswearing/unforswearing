@@ -8,10 +8,13 @@
  - [Deno's Network and File Permissions Model](https://reflect.run/articles/deno-networking-and-file-permissions-model/)
  - [Getting Started with Fzf in Zsh](https://www.unforswearing.com/blog/?page=20220903_get_started_with_fzf_in_zsh)
 
+<br />
+
 ## Current Projects
 
   - Mastering Zsh (educative.io)
 
+<br />
 
 ## Future Work
 
