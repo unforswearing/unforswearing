@@ -1,6 +1,10 @@
 [unforswearing.com](https://unforswearing.com)  
 
-## Recent Writing
+## Writing
+
+I have over twenty years of general writing experience and I'm always on the lookout for new writing opportunities. Feel free to [get in touch](https://www.unforswearing.com/portfolio#contact)!
+
+### Blog Posts
 
  - [Guide to Safari Developer Tools](https://reflect.run/articles/guide-to-safari-developer-tools/)  
  - [Creating Automated Tests for Safari and Webkit](https://reflect.run/articles/creating-automated-tests-for-safari-and-webkit/)
@@ -10,16 +14,19 @@
  - [Deno's Network and File Permissions Model](https://reflect.run/articles/deno-networking-and-file-permissions-model/)
  - [Getting Started with Fzf in Zsh](https://www.unforswearing.com/blog/?page=20220903_get_started_with_fzf_in_zsh)
 
-<br />
-
-## Current Projects
-
-  - Mastering Zsh (educative.io)
+You may find more writing on [my portfolio](https://unforswering.com/portfolio).
 
 <br />
 
-## Future Work
+### Current Projects
 
-I'm always on the lookout for new writing opportunities, feel free to [get in touch](https://www.unforswearing.com/portfolio#contact)!
+  - Mastering Zsh (educative.io, coming soon)
+
+<br />
+
+## Music
+
+In addtion to writing and programming, I also make (mostly) guitar based experimental music and occasionally score films with a project called [paper tether](https://papertether.bandcamp.com)
 
 <br /><br />
+
