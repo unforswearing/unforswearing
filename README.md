@@ -14,15 +14,12 @@ I have over twenty years of general writing experience and I'm always on the loo
  - [Deno's Network and File Permissions Model](https://reflect.run/articles/deno-networking-and-file-permissions-model/)
  - [Getting Started with Fzf in Zsh](https://www.unforswearing.com/blog/?page=20220903_get_started_with_fzf_in_zsh)
 
-You may find more writing on [my portfolio](https://unforswering.com/portfolio).
-
-<br />
+You may find more writing on [my portfolio](https://unforswearing.com/portfolio).
 
 ### Current Projects
 
-  - Mastering Zsh (educative.io, coming soon)
-
-<br />
+  - Using Editors, Regex, and Hooks with Zsh (Digital Ocean)
+  - Mastering Zsh (Educative.io)
 
 ## Music
 
