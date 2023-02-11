@@ -23,7 +23,7 @@ You may find more writing on [my portfolio](https://unforswearing.com/portfolio)
 
 ## Music
 
-In addtion to writing and programming, I also make (mostly) guitar based experimental music and occasionally score films with a project called [paper tether](https://papertether.bandcamp.com)
+In addtion to writing and programming, I also make (mostly) guitar based experimental music and occasionally score films with a project called [paper tether](https://papertether.bandcamp.com). 
 
 <br /><br />
 
