@@ -21,9 +21,13 @@ You may find more writing on [my portfolio](https://unforswearing.com/portfolio)
   - Using Editors, Regex, and Hooks with Zsh (Digital Ocean)
   - Mastering Zsh (Educative.io)
 
+
+<!--
+super secret section, i guess?
+
 ## Music
 
 In addtion to writing and programming, I also make (mostly) guitar based experimental music and occasionally score films with a project called [paper tether](https://papertether.bandcamp.com). 
 
 <br /><br />
-
+-->
