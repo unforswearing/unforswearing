@@ -19,7 +19,6 @@ You may find more writing on [my portfolio](https://unforswearing.com/portfolio)
 ### Current Projects
 
   - Using Nix with Coder (Coder.com)
-  - Using Editors, Regex, and Hooks with Zsh (Digital Ocean)
   - Mastering Zsh (Educative.io)
 
 
