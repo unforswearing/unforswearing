@@ -6,6 +6,7 @@ I have over twenty years of general writing experience and I'm always on the loo
 
 ### Blog Posts
 
+ - [How to Use Editors, Regex, and Hooks with Z-shell](https://www.digitalocean.com/community/tutorials/how-to-use-editors-regex-and-hooks-with-z-shell)  
  - [Guide to Safari Developer Tools](https://reflect.run/articles/guide-to-safari-developer-tools/)  
  - [Creating Automated Tests for Safari and Webkit](https://reflect.run/articles/creating-automated-tests-for-safari-and-webkit/)
  - [Introduction to Bun](https://reflect.run/articles/introduction-to-bun/)  
