@@ -1,15 +1,15 @@
-[unforswearing.com](https://unforswearing.com)  
+[unforswearing.com](https://unforswearing.com)
 
 ## Writing
 
-I have over twenty years of general writing experience and I'm always on the lookout for new writing opportunities. Feel free to [get in touch](https://www.unforswearing.com/portfolio#contact)!
+I have over twenty years of general writing experience and I'm always on the lookout for new contract writing opportunities. I am also seeking a permanent position as a Technical Writer or Copywriter. Feel free to [get in touch](https://www.unforswearing.com/portfolio#contact)!
 
 ### Blog Posts
 
- - [How to Use Editors, Regex, and Hooks with Z-shell](https://www.digitalocean.com/community/tutorials/how-to-use-editors-regex-and-hooks-with-z-shell)  
- - [Guide to Safari Developer Tools](https://reflect.run/articles/guide-to-safari-developer-tools/)  
+ - [How to Use Editors, Regex, and Hooks with Z-shell](https://www.digitalocean.com/community/tutorials/how-to-use-editors-regex-and-hooks-with-z-shell)
+ - [Guide to Safari Developer Tools](https://reflect.run/articles/guide-to-safari-developer-tools/)
  - [Creating Automated Tests for Safari and Webkit](https://reflect.run/articles/creating-automated-tests-for-safari-and-webkit/)
- - [Introduction to Bun](https://reflect.run/articles/introduction-to-bun/)  
+ - [Introduction to Bun](https://reflect.run/articles/introduction-to-bun/)
  - [Building a Better Runbook through Documentation and Automation](https://www.airplane.dev/blog/building-a-better-runbook-through-automation-and-documentation)
  - [12 Useful Python Scripts for Developers](https://www.airplane.dev/blog/12-useful-python-scripts-for-developers)
  - [Deno's Network and File Permissions Model](https://reflect.run/articles/deno-networking-and-file-permissions-model/)
@@ -28,7 +28,7 @@ super secret section, i guess?
 
 ## Music
 
-In addtion to writing and programming, I also make (mostly) guitar based experimental music and occasionally score films with a project called [paper tether](https://papertether.bandcamp.com). 
+In addtion to writing and programming, I also make (mostly) guitar based experimental music and occasionally score films with a project called [paper tether](https://papertether.bandcamp.com).
 
 <br /><br />
 -->
