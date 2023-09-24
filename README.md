@@ -1,6 +1,4 @@
-[unforswearing.com](https://unforswearing.com)
-
-I have over twenty years of general writing experience and I'm always on the lookout for new contract copywriting or technical writing opportunities. You may find writing samples on [my portfolio](https://unforswearing.com/portfolio).
+I am a technical writer, copywriter, and occasional programmer, open to project-based writing work. Portfolio: [unforswearing.com](https://unforswearing.com).
 
 <br />
 
