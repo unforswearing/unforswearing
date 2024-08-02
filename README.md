@@ -5,4 +5,4 @@ Need help writing technical blog posts, onboarding guides, or documentation for 
 <br />
 
 > [!NOTE]
-> all code is in the public domain unless otherwise specified.
+> All code is in the public domain unless otherwise specified.
