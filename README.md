@@ -6,6 +6,6 @@ I also offer *a la carte* writing via [Github Sponsorship](https://github.com/sp
 
 ## Programming
 
-I am a self-taught JavaScript/TypeScript/Python programmer currently making markup and domain-specific languages, writing tools, and various little quality-of-life scripts. My previous experience includes business automation, web programming, and creating developer tooling. 
+I am a self-taught JavaScript/TypeScript/Python programmer currently making markup and domain-specific languages, writing tools, and various little quality-of-life programs. My previous experience includes business workflow automation, web programming, and creating developer tooling. 
 
 > All code is in the public domain unless otherwise specified.
