@@ -1,6 +1,8 @@
 ## Writing
 
-I am a writer with twenty years of experience crafting product copy and technical documentation. Need help writing technical blog posts, social media copy, onboarding guides, or documentation for your project? Please get in touch: [unforswearing.com](https://unforswearing.com).
+I am a writer with twenty years of experience crafting product copy and technical documentation. I am actively seeking full-time technical writing work, or short term freelance assignments. Need help writing technical blog posts, social media copy, onboarding guides, or documentation for your project? Please get in touch: [unforswearing.com](https://unforswearing.com). 
+
+I also offer *a la carte* writing via [Github Sponsorship](https://github.com/sponsors/unforswearing?frequency=one-time&sponsor=unforswearing).
 
 ## Programming
 
