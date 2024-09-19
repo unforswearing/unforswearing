@@ -1,3 +1,5 @@
+Hello, thanks for visiting. While you're here I want to mention that **I am actively seeking full-time employment** as a technical writer, copywriter, knowledge manager, or more technical roles related to web programming, technical product / project management, CMS administrator, and similar. [Visit my website for details](https://unforswearing.com), I look forward to hearing from you. 
+
 ## Writing
 
 I am a writer with twenty years of experience crafting product copy and technical documentation. I am actively seeking full-time technical writing work, or short term freelance assignments. Need help writing technical blog posts, social media copy, onboarding guides, or documentation for your project? Please get in touch: [unforswearing.com](https://unforswearing.com). 
