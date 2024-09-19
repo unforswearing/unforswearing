@@ -1,4 +1,4 @@
-Hello, thanks for visiting. While you're here I want to mention that **I am actively seeking full-time employment** as a technical writer, copywriter, knowledge manager, or more technical roles related to web programming, technical product / project management, CMS administrator, and similar. [Visit my website for details](https://unforswearing.com), I look forward to hearing from you. 
+Hello, thanks for visiting. While you're here I want to mention that **I am actively seeking full-time employment** as a technical writer, copywriter, knowledge manager, or other writing, information, content, or data-related roles. [Visit my website for details](https://unforswearing.com), I look forward to hearing from you. 
 
 ## Writing
 
