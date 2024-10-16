@@ -1,10 +1,6 @@
-Hello, thanks for visiting. While you're here I want to mention that **I am actively seeking full-time employment** as a technical writer, copywriter, knowledge manager, or other writing, information, content, or data-related roles. [Visit my website for details](https://unforswearing.com), I look forward to hearing from you. 
-
 ## Writing
 
-I am a writer with twenty years of experience crafting product copy and technical documentation. I am actively seeking full-time technical writing work, or short term freelance assignments. Need help writing technical blog posts, social media copy, onboarding guides, or documentation for your project? Please get in touch: [unforswearing.com](https://unforswearing.com). 
-
-I also offer *a la carte* writing via [Github Sponsorship](https://github.com/sponsors/unforswearing?frequency=one-time&sponsor=unforswearing).
+I am a writer with twenty years of experience, with recent work as a copywriter and technical writer. I am actively seeking full-time employment. Please get in touch: [LinkedIn](https://linkedin.com/in/alvin-charity). 
 
 ## Programming
 
