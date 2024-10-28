@@ -1,6 +1,6 @@
-## Writing
+## Seeking Employment
 
-I am a writer with twenty years of experience, with recent work as a copywriter and technical writer. I am actively seeking full-time employment. Please get in touch: [LinkedIn](https://linkedin.com/in/alvin-charity). 
+For the past ten years my work has been at the intersection of technology and content, and I excel at roles that have elements of knowledge management, data analysis, programming / scripting, technical business analysis, technical writing, audio production, and similar. I'm looking forward to diving deeply into the details of my next position. Please get in touch: [LinkedIn](https://linkedin.com/in/alvin-charity). 
 
 ## Programming
 
