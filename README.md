@@ -1,6 +1,6 @@
 ## Seeking Employment
 
-I am a writer with over fourteen years of experience creating technical content, designing documentation, writing marketing copy, developing training materials, managing content, and creating business automation. I'm looking forward to diving deeply into the details of my next position. Please get in touch: [LinkedIn](https://linkedin.com/in/alvin-charity). 
+I am a writer with a broad range of technical experience looking for my next opportunity. 14+ years experience creating technical content, copywriting / user experience writing, managing CMS software, and driving documentation strategy. I have an additional 8 years programming experience (business automation and a bit of frontend development) and four years working as a project manager / PMP. I am open to any role that will allow me to flex my technical and creative skills. Please get in touch: [LinkedIn](https://linkedin.com/in/alvin-charity). 
 
 ## Programming
 
