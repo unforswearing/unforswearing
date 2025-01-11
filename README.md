@@ -2,7 +2,7 @@
 
 I am a writer with a broad range of technical experience looking for my next opportunity. 14+ years experience creating technical content, copywriting / user experience writing, managing CMS software, and driving documentation strategy. I have an additional 8 years programming experience (business automation and a bit of frontend development) and four years working as a project manager / PMP. I am open to any role that will allow me to flex my technical and creative skills. Please get in touch: [LinkedIn](https://linkedin.com/in/alvin-charity).
 
-<img src="uxcel2024.png" width="25%" />
+<img src="uxcel2024.png" width="30%" />
 
 <br />
 
