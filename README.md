@@ -13,4 +13,4 @@ In addition to my writing and programming experience, I am a capable content man
 
 <br />
 
-<img src="uxcel2024.png" width="30%" />
+<img src="uxcel2024.png" width="50%" />
