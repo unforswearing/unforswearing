@@ -6,7 +6,7 @@ All code is in the public domain unless otherwise specified.
 
 ## Seeking Employment
 
-In addition to my writing and programming experience, I am a capable project manager with four years of experience working as a certified Project Management Professional. Looking for roles that will allow me to learn new tools and systems while flexing my creative and technical knowledge. Please get in touch if you would like to hear more about my professional experience and goals.
+In addition to my writing and programming experience, I am a capable content manager and information specialist, and have four years of experience working as a certified Project Management Professional. Looking for roles that will allow me to learn new tools and systems while flexing my creative and technical knowledge. Please get in touch if you would like to hear more about my professional experience and goals.
 
 - [Portfolio](https://unforswearing.com)
 - [LinkedIn](https://linkedin.com/in/alvin-charity)
