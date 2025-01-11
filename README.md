@@ -1,13 +1,16 @@
+## About
+
+I am a writer, musician, and self-taught `JavaScript`/`TypeScript`/`Python` programmer currently tinkering with [markup languages](https://github.com/unforswearing/todo_markup.js), [documentation tools](https://github.com/unforswearing/xdoc), [writing systems](https://github.com/unforswearing/poyml), and various [little programs](https://github.com/unforswearing/aliaser) to improve my quality of life at the terminal. My previous professional programming experience includes business workflow automation, web programming, and creating developer tooling. I will use any opportunity I can to learn a new language -- I have previously dabbled with `Lua`, `TCL`, `J`, and `F#`, and I'm currently learning more about `Ruby` and `Go`.
+
+All code is in the public domain unless otherwise specified.
+
 ## Seeking Employment
 
-I am a writer with a broad range of technical experience looking for my next opportunity. 14+ years experience creating technical content, copywriting / user experience writing, managing CMS software, and driving documentation strategy. I have an additional 8 years programming experience (business automation and a bit of frontend development) and four years working as a project manager / PMP. I am open to any role that will allow me to flex my technical and creative skills. Please get in touch: [LinkedIn](https://linkedin.com/in/alvin-charity).
+In addition to my writing and programming experience, I am a capable project manager with four years of experience working as a certified Project Management Professional. Looking for roles that will allow me to learn new tools and systems while flexing my creative and technical knowledge. Please get in touch if you would like to hear more about my professional experience and goals.
 
-<img src="uxcel2024.png" width="30%" />
+- [Portfolio](https://unforswearing.com)
+- [LinkedIn](https://linkedin.com/in/alvin-charity)
 
 <br />
 
----
-
-I am a self-taught `JavaScript`/`TypeScript`/`Python` programmer currently making [markup](https://github.com/unforswearing/todo_markup.js) [languages](https://github.com/unforswearing/xdoc), [writing tools](https://github.com/unforswearing/poyml), and various little [quality-of-life programs](https://github.com/unforswearing/aliaser). Additionally I have extensive experience in the shell with `Bash` and `Zsh`. My previous professional programming experience includes business workflow automation, web programming, and creating developer tooling. I will use any opportunity I can to learn a new language -- I have previously dabbled with `Lua`, `TCL`, `J`, and `F#`, and I'm currently learning more about `Ruby` and `Go`.
-
-All code is in the public domain unless otherwise specified.
+<img src="uxcel2024.png" width="30%" />
