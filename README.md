@@ -6,7 +6,9 @@ All code is in the public domain unless otherwise specified.
 
 ## Seeking Employment
 
-In addition to my writing and programming experience, I am a capable [automation / workflow designer](https://github.com/unforswearing/gas-send-email), content manager, and information specialist, and have four years of experience working as a certified Project Management Professional. Looking for roles that will allow me to learn new tools and systems while flexing my creative and technical knowledge. Please get in touch if you would like to hear more about my professional experience and goals.
+In addition to my writing and programming experience, I am a capable [automation / workflow designer](https://github.com/unforswearing/gas-send-email), content manager, and information specialist, and have four years of experience working as a certified Project Management Professional. Looking for roles that will allow me to learn new tools and systems while flexing my creative and technical knowledge. One of my professional goals at this stage is to work on the technical side of content creation and management, including building tools for documentation, designing content serialization systems, creating editing workflows, and similar. 
+
+Please contact me if you would like to know more about me or my professional goals!
 
 - [Portfolio](https://unforswearing.com)
 - [LinkedIn](https://linkedin.com/in/alvin-charity)
