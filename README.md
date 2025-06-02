@@ -6,7 +6,6 @@ Programming is communication, and I will use any opportunity I can to learn a ne
 
 My previous professional experience includes blending my programming skills with project management, business workflow automation (primarily using [Google Apps Script](https://github.com/unforswearing?tab=repositories&q=gas)[^*]), content management and administration, data analysis, and crafting copy and documentation for a wide variety of industries.
 
-- [Writing Services](https://www.unforswearing.com/services)
 - [Portfolio](https://unforswearing.com)
 - [LinkedIn](https://linkedin.com/in/alvin-charity)
 
